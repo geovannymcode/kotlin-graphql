@@ -16,7 +16,7 @@ Para más detalles sobre la construcción de este proyecto, puedes consultar el 
 - GraphiQL: Herramienta para la prueba interactiva de las consultas y mutaciones de GraphQL.
 
 ## Instalación y Ejecución del Proyecto
-- Requisitos Previos
+Requisitos Previos:
 - Java 17 o superior
 - Docker
 - PostgreSQL 12+
